@@ -1,2 +1,2 @@
-# LinearAlgebra_Book_Matlab
+# Algebra Lineal para Ingeniería con Matlab
 Código de Matlab
